@@ -17,7 +17,7 @@ def index():
         </head>
         <body>
             <div class="card">
-                <h1>✨ Hello Dear!</h1>
+                <h1>✨ Hello Deam team!</h1>
                 <p>Your Flask application is running on <b>Google Cloud Run</b>.</p>
                 <p>Deployed via Cloud Build without a Dockerfile.</p>
             </div>
